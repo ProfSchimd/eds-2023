@@ -70,7 +70,7 @@ INSERT INTO "argomento" VALUES
 
 INSERT INTO "videogioco" VALUES
 	(1, "Trivial Pursuit Triangle", "Vinci monete rispondendo alle domande sui triangoli", 100, 1, NULL, NULL, NULL),
-	(2, "Trivial Pursuit Polynomy", "Vinci monete rispondendo alle domande sui polinomi", 100, 7, NULL, NULL, NULL),
+	(2, "Trivial Pursuit Polynomials", "Vinci monete rispondendo alle domande sui polinomi", 100, 7, NULL, NULL, NULL),
 	(3, "Resist!", "Vinci la corrente usando tutta la potenza, gioco ad alta tensione", 30, 2, NULL, NULL, NULL),
 	(4, "Verità o pegno", "Rispondi correttamente alle domande sul verismo o paga un pegno", 65, 3, NULL, NULL, NULL),
 	(5, "SQuest", "Scopri il mondo di SQL sfidando i campioni", 50, 4, NULL, NULL, NULL),
